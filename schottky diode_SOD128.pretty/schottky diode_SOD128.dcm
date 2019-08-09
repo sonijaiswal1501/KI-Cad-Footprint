@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PMEG3020EP
+D Diode, NXP, PMEG3020EP NXP PMEG3020EP, SMT Schottky Diode, 30V 2A, 2-Pin SOD-128
+K
+F http://www.nxp.com/documents/data_sheet/PMEG3020EP.pdf
+$ENDCMP
+#
+#End Doc Library

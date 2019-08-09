@@ -1,0 +1,226 @@
+PCBNEW-LibModule-V1  2018-08-09 06:16:47
+# encoding utf-8
+Units mm
+$INDEX
+RN4870
+$EndINDEX
+$MODULE RN4870
+Po 0 0 0 15 5b6bce3f 00000000 ~~
+Li RN4870
+Cd RN4870
+Kw Undefined or Miscellaneous
+Sc 0
+At SMD
+AR 
+Op 0 0 0
+T0 0 0 1.27 1.27 0 0.254 N V 21 N "U**"
+T1 0 0 1.27 1.27 0 0.254 N I 21 N "RN4870"
+DS -0.25 -0.8 11.75 -0.8 0.2 24
+DS 11.75 -0.8 11.75 21.2 0.2 24
+DS 11.75 21.2 -0.25 21.2 0.2 24
+DS -0.25 21.2 -0.25 -0.8 0.2 24
+DS -0.25 -0.8 11.75 -0.8 0.1 21
+DS -0.25 21.2 -0.25 20 0.1 21
+DS -0.25 21.2 1.8 21.2 0.1 21
+DS 11.75 21.2 9.8 21.2 0.1 21
+DS 11.75 21.2 11.75 20 0.1 21
+$PAD
+Po 0 0
+Sh "1" R 0.7 1.5 0 0 900
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po 0 1.1
+Sh "2" R 0.7 1.5 0 0 900
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po 0 7.3
+Sh "3" R 0.7 1.5 0 0 900
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po 0 8.4
+Sh "4" R 0.7 1.5 0 0 900
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po 0 9.5
+Sh "5" R 0.7 1.5 0 0 900
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po 0 10.6
+Sh "6" R 0.7 1.5 0 0 900
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po 0 11.7
+Sh "7" R 0.7 1.5 0 0 900
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po 0 12.8
+Sh "8" R 0.7 1.5 0 0 900
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po 0 13.9
+Sh "9" R 0.7 1.5 0 0 900
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po 0 15
+Sh "10" R 0.7 1.5 0 0 900
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po 0 16.1
+Sh "11" R 0.7 1.5 0 0 900
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po 0 17.2
+Sh "12" R 0.7 1.5 0 0 900
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po 0 18.3
+Sh "13" R 0.7 1.5 0 0 900
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po 0 19.4
+Sh "14" R 0.7 1.5 0 0 900
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po 2.45 20.95
+Sh "15" R 0.7 1.5 0 0 0
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po 3.55 20.95
+Sh "16" R 0.7 1.5 0 0 0
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po 4.65 20.95
+Sh "17" R 0.7 1.5 0 0 0
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po 5.75 20.95
+Sh "18" R 0.7 1.5 0 0 0
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po 6.85 20.95
+Sh "19" R 0.7 1.5 0 0 0
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po 7.95 20.95
+Sh "20" R 0.7 1.5 0 0 0
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po 9.05 20.95
+Sh "21" R 0.7 1.5 0 0 0
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po 11.5 19.4
+Sh "22" R 0.7 1.5 0 0 900
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po 11.5 18.3
+Sh "23" R 0.7 1.5 0 0 900
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po 11.5 17.2
+Sh "24" R 0.7 1.5 0 0 900
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po 11.5 16.1
+Sh "25" R 0.7 1.5 0 0 900
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po 11.5 15
+Sh "26" R 0.7 1.5 0 0 900
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po 11.5 13.9
+Sh "27" R 0.7 1.5 0 0 900
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po 11.5 12.8
+Sh "28" R 0.7 1.5 0 0 900
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po 11.5 11.7
+Sh "29" R 0.7 1.5 0 0 900
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po 11.5 10.6
+Sh "30" R 0.7 1.5 0 0 900
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po 11.5 9.5
+Sh "31" R 0.7 1.5 0 0 900
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po 11.5 1.1
+Sh "32" R 0.7 1.5 0 0 900
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po 11.5 0
+Sh "33" R 0.7 1.5 0 0 900
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$EndMODULE RN4870
+$EndLIBRARY

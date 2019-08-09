@@ -1,0 +1,41 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# TLE5206-2G
+#
+DEF TLE5206-2G U 0 40 Y Y 1 L N
+F0 "U" -301 451 50 H V L BNN
+F1 "TLE5206-2G" -300 -500 50 H V L BNN
+F2 "DPAK127P1500X440-8N" 0 0 50 H I L BNN
+F3 "None" 0 0 50 H I L BNN
+F4 "TO-263 Infineon" 0 0 50 H I L BNN
+F5 "TLE5206-2G" 0 0 50 H I L BNN
+F6 "Unavailable" 0 0 50 H I L BNN
+F7 "Infineon" 0 0 50 H I L BNN
+F8 "Ic h-Bridge 5a Dc Motor D2pak-7 - Tle5206-2g" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 6 -300 400 300 400 N
+P 2 0 0 6 300 400 300 50 N
+P 2 0 0 6 300 50 300 -50 N
+P 2 0 0 6 300 -50 300 -150 N
+P 2 0 0 6 300 -150 300 -250 N
+P 2 0 0 6 300 -250 300 -400 N
+P 2 0 0 6 300 -400 -300 -400 N
+P 2 0 0 6 -300 -400 -300 -250 N
+P 2 0 0 6 -300 -250 -300 -150 N
+P 2 0 0 6 -300 -150 -300 -50 N
+P 2 0 0 6 -300 -50 -300 50 N
+P 2 0 0 6 -300 50 -300 400 N
+X VS 6 400 300 100 L 40 40 0 0 W 
+X IN2 5 -400 0 100 R 40 40 0 0 I 
+X EF 2 400 -100 100 L 40 40 0 0 O 
+X GND 4 400 -300 100 L 40 40 0 0 W 
+X IN1 3 -400 100 100 R 40 40 0 0 I 
+X OUT1 1 400 100 100 L 40 40 0 0 O 
+X OUT2 7 400 0 100 L 40 40 0 0 O 
+ENDDRAW
+ENDDEF
+#
+# End Library

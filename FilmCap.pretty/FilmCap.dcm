@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP F612JF104J100A
+D Film Capacitors 100V 0.1uF 5%
+K
+F https://content.kemet.com/datasheets/KEM_F3065_F611_F612.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model PMEG3020EP
+#/376080/58589/2.43/2/4/Diode
+DEF PMEG3020EP D 0 30 Y Y 1 F N
+F0 "D" 450 200 50 H V L CNN
+F1 "PMEG3020EP" 450 100 50 H V L CNN
+F2 "SODFL4725X110N" 450 0 50 H I L CNN
+F3 "http://www.nxp.com/documents/data_sheet/PMEG3020EP.pdf" 450 -100 50 H I L CNN
+F4 "Diode, NXP, PMEG3020EP NXP PMEG3020EP, SMT Schottky Diode, 30V 2A, 2-Pin SOD-128" 450 -200 50 H I L CNN "Description"
+F5 "1.1" 450 -300 50 H I L CNN "Height"
+F6 "Nexperia" 450 -400 50 H I L CNN "Manufacturer_Name"
+F7 "PMEG3020EP" 450 -500 50 H I L CNN "Manufacturer_Part_Number"
+F8 "N/A" 450 -600 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA" 450 -700 50 H I L CNN "Mouser Price/Stock"
+F10 "" 450 -800 50 H I L CNN "RS Part Number"
+F11 "" 450 -900 50 H I L CNN "RS Price/Stock"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 B
+X ~ 2 600 0 200 L 50 50 0 0 B
+P 4 0 1 6 200 0 400 100 400 -100 200 0 N
+P 2 0 1 6 200 100 200 -100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NRVA4004T3G
+D ON Semi NRVA4004T3G, SMT Diode, 400V 1A, 2-Pin DO-214AC
+K
+F http://www.onsemi.com/pub/Collateral/MRA4003T3-D.PDF
+$ENDCMP
+#
+#End Doc Library
